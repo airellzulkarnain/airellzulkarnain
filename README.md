@@ -2,7 +2,7 @@
 - 🔭 I’m currently a student of SMKN 5 Kota Tangerang
 - 🌱 I’m currently learning Svelte, SQLAlchemy, JQuery, FastAPI, Tkinter
 - 💬 Ask me about anything!
-- 📫 How to reach me: IG: <a href="instagram.com/airell_zulkarnain">@airell_zulkarnain</a>
+- 📫 How to reach me: IG: <a href="https://instagram.com/airell_zulkarnain">@airell_zulkarnain</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'd love to learn new things
 <!--
