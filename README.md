@@ -3,7 +3,7 @@
 - 🔭 I’m currently a student of SMKN 5 Kota Tangerang
 - 🌱 I had used Svelte, React, SQLAlchemy, JQuery, FastAPI, Tkinter, ASP.NET, WinForms.
 - 💬 Ask me about Linux, Python, Anything!
-- 📫 How to reach me: <a href="https://instagram.com/airell_zulkarnain">@airell_zulkarnain</a>
+- 📫 How to reach me: <a href="https://instagram.com/airell_zulkarnain">@airell.zulkarnain</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'd love to learn new things
 ## Badges
