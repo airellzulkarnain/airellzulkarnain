@@ -1,7 +1,7 @@
 # Hi there,  Im Airell Zulkarnain, call me rel 👋
 - 📍 I'm from Indonesia
 - 🔭 I’m currently a student of SMKN 5 Kota Tangerang
-- 🌱 I had used Svelte, SQLAlchemy, JQuery, FastAPI, Tkinter, ASP.NET, WinForms.
+- 🌱 I had used Svelte, React, SQLAlchemy, JQuery, FastAPI, Tkinter, ASP.NET, WinForms.
 - 💬 Ask me about Linux, Python, Anything!
 - 📫 How to reach me: <a href="https://instagram.com/airell_zulkarnain">@airell_zulkarnain</a>
 - 😄 Pronouns: He/Him
