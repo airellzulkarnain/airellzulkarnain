@@ -1,4 +1,4 @@
-# Hi there,  Im Airell Zulkarnain, call me rel 👋
+# Hi there,  Im Airell Zulkarnain 👋
 - 📍 Live in Indonesia
 - 💬 Ask me about Linux, Python, Anything!
 - 📫 How to reach me: <a href="https://instagram.com/airell_zulkarnain">@airell.zulkarnain</a>
